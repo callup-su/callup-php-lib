@@ -19,7 +19,7 @@ class Config
   public function getParameter(string $name): string
   {
     return array_key_exists($name, $this->config)
-      ? $this->config['name']
+      ? $this->config[$name]
       : '';
   }
 
