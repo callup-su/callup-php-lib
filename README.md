@@ -1,6 +1,6 @@
 # Call-up
 
-PHP библиотека для взаимодействия с сервисом [Call-Password](https://git.zonatelecom.ru/z_micro/call-password).
+PHP библиотека для взаимодействия с сервисом [CallUp](https://call-up.io/).
 
 Содержание
 - [Входные данные](#входные-данные)
